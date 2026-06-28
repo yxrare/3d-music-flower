@@ -14,7 +14,7 @@ A browser-based 3D music flower built with Three.js. It renders a high-density p
 
 ## Preview
 
-![3D Music Flower preview](assets/preview.png)
+<img src="./assets/preview.png" alt="3D Music Flower preview" width="100%">
 
 The page first shows a still 3D bouquet. After you choose or drop in music, the bouquet folds back into a seed-like state and grows again with the track.
 
